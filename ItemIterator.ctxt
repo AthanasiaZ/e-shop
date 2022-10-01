@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ItemIterator
+comment1.params=products
+comment1.target=ItemIterator(java.util.List)
+comment2.params=
+comment2.target=boolean\ hasNext()
+comment3.params=
+comment3.target=Item\ next()
+numComments=4

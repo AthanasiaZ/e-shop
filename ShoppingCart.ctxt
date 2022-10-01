@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ShoppingCart
+comment1.params=k
+comment1.target=ItemOrdered\ getItems(int)
+comment2.params=item
+comment2.target=void\ addItemOrdered(ItemOrdered)
+comment3.params=Item
+comment3.target=void\ removeItemOrdered(Item)
+comment4.params=
+comment4.target=boolean\ showCart()
+comment4.text=public\ Iterator<Item>\ getIterator()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ ShoppingCartIterator\ \=\ new\ ItemIterator(Items);\r\n\ \ \ \ \ \ \ \ return\ ShoppingCartIterator;\r\n}
+comment5.params=
+comment5.target=void\ clearCart()
+numComments=6

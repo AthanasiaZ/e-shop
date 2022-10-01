@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Eshop
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ addItem()
+comment3.params=
+comment3.target=void\ getItemById()
+comment4.params=
+comment4.target=void\ removeItem()
+numComments=5
